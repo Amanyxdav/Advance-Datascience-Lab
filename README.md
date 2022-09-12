@@ -1,0 +1,2 @@
+# Advance-Datascience-Lab
+To provide strong foundation for data science and application area related to it and understand the underlying core concepts and emerging technologies in data science.• Explore the fundamental concepts of data science • Understand data analysis techniques for applications handling large data • Understand various machine learning algorithms used in data science process • Visualize and present the inference using various tools. • Learn to think through the ethics surrounding privacy, data sharing and algorithmic decision-making
